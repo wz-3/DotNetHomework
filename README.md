@@ -1,2 +1,2 @@
 # wz
-C# homework is in branch master
+C# homeworks is in branch master
